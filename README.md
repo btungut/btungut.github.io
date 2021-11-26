@@ -7,7 +7,7 @@ helm repo add btungut https://btungut.github.io
 ## [Azure KeyVault Operator](https://btungut.github.io/azure-keyvault-secret-operator/)
 Easy to use operator which is able to **sync all of the Azure KeyVault contents** into your Kubernetes cluster with **only one manifest**. 
 
-Please visit [github pages](https://btungut.github.io/azure-keyvault-secret-operator/) for further details or [repository page]([https://link](https://github.com/btungut/azure-keyvault-secret-operator)) for source code.
+Please visit [github pages](https://btungut.github.io/azure-keyvault-secret-operator/) for further details or [repository page](https://github.com/btungut/azure-keyvault-secret-operator) for source code.
 
 # Who am I ?
 Hi folks! 
