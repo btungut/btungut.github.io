@@ -1,6 +1,36 @@
 apiVersion: v1
 entries:
-  azure-keyvault-secret-operator:
+  kubernetes-azure-keyvault-secret-operator:
+  - annotations:
+      artifacthub.io/crds: |-
+        - kind: AzureKeyVault
+          version: v1
+          name: azurekeyvault
+          displayName: AzureKeyVault
+          description: Represents an Azure KeyVault reference that is used to sync secrets across cluster.
+      artifacthub.io/license: MIT
+      artifacthub.io/links: |
+        - name: GitHub
+          url: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
+      artifacthub.io/operator: "true"
+      artifacthub.io/operatorCapabilities: Seamless Upgrades
+      artifacthub.io/prerelease: "true"
+    apiVersion: v2
+    appVersion: 0.0.5
+    created: "2022-03-04T01:17:30.3347862+03:00"
+    description: Kubernetes Azure KeyVault Secret Operator
+    digest: 34baf0db7d73ec1887bbf4876b4c29d4e415d05db59ba958c43154740c6c69a0
+    home: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
+    maintainers:
+    - email: buraktungut@gmail.com
+      name: Burak Tungut
+    name: kubernetes-azure-keyvault-secret-operator
+    sources:
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
+    type: application
+    urls:
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.5/kubernetes-azure-keyvault-secret-operator-0.0.5.tgz
+    version: 0.0.5
   - annotations:
       artifacthub.io/crds: |-
         - kind: AzureKeyVault
@@ -11,7 +41,7 @@ entries:
       artifacthub.io/license: MIT
       artifacthub.io/links: |
         - name: GitHub
-          url: https://github.com/btungut/azure-keyvault-secret-operator
+          url: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
       artifacthub.io/operator: "true"
       artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "true"
@@ -21,16 +51,16 @@ entries:
     description: Kubernetes operator which enables your cluster to sync secrets with
       Azure KeyVault in easiest way.
     digest: b0ddf0b23e0b73e9403eb339aeb10fa91d4325252746668a5abdd1035a0b3f99
-    home: https://github.com/btungut/azure-keyvault-secret-operator
+    home: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
     maintainers:
     - email: buraktungut@gmail.com
       name: Burak Tungut
-    name: azure-keyvault-secret-operator
+    name: kubernetes-azure-keyvault-secret-operator
     sources:
-    - https://github.com/btungut/azure-keyvault-secret-operator
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
     type: application
     urls:
-    - https://github.com/btungut/azure-keyvault-secret-operator/releases/download/0.0.4/azure-keyvault-secret-operator-0.0.4.tgz
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.4/kubernetes-azure-keyvault-secret-operator-0.0.4.tgz
     version: 0.0.4
   - annotations:
       artifacthub.io/crds: |-
@@ -42,7 +72,7 @@ entries:
       artifacthub.io/license: MIT
       artifacthub.io/links: |
         - name: GitHub
-          url: https://github.com/btungut/azure-keyvault-secret-operator
+          url: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
       artifacthub.io/operator: "true"
       artifacthub.io/operatorCapabilities: Seamless Upgrades
       artifacthub.io/prerelease: "true"
@@ -52,16 +82,16 @@ entries:
     description: Kubernetes operator which enables your cluster to sync secrets with
       Azure KeyVault in easiest way.
     digest: 570a7c4047d5b41363f568796f6583b07ca03f85c332a4061692b7e8ca47a518
-    home: https://github.com/btungut/azure-keyvault-secret-operator
+    home: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
     maintainers:
     - email: buraktungut@gmail.com
       name: Burak Tungut
-    name: azure-keyvault-secret-operator
+    name: kubernetes-azure-keyvault-secret-operator
     sources:
-    - https://github.com/btungut/azure-keyvault-secret-operator
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
     type: application
     urls:
-    - https://github.com/btungut/azure-keyvault-secret-operator/releases/download/0.0.3/chart.tgz
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.3/chart.tgz
     version: 0.0.3
   - apiVersion: v2
     appVersion: 0.0.1
@@ -69,15 +99,15 @@ entries:
     description: Kubernetes operator which enables your cluster to sync secrets with
       Azure KeyVault in easiest way
     digest: 6daa190e08bdb313b1b851f672a3ef233a9188254a1e9aff95e01dfcf371aafd
-    home: https://github.com/btungut/azure-keyvault-secret-operator
+    home: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
     maintainers:
     - email: buraktungut@gmail.com
       name: Burak Tungut
-    name: azure-keyvault-secret-operator
+    name: kubernetes-azure-keyvault-secret-operator
     sources:
-    - https://github.com/btungut/azure-keyvault-secret-operator
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
     type: application
     urls:
-    - https://github.com/btungut/azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
+    - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2021-11-30T19:08:33.4295764+03:00"
+generated: "2022-03-04T01:17:30.3331483+03:00"
