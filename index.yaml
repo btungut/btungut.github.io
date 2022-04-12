@@ -17,9 +17,9 @@ entries:
       artifacthub.io/prerelease: "true"
     apiVersion: v2
     appVersion: 0.0.5
-    created: "2022-03-04T01:17:30.3347862+03:00"
+    created: "2022-04-12T21:06:04.1922026+03:00"
     description: Kubernetes Azure KeyVault Secret Operator
-    digest: 34baf0db7d73ec1887bbf4876b4c29d4e415d05db59ba958c43154740c6c69a0
+    digest: 3f3b995cff7067674457bd184cef00698bf7707d1e6371b9863966855d24fb71
     home: https://github.com/btungut/kubernetes-azure-keyvault-secret-operator
     maintainers:
     - email: buraktungut@gmail.com
