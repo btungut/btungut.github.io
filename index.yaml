@@ -1,5 +1,33 @@
 apiVersion: v1
 entries:
+  fluentd-kube-elastic:
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: MIT
+      artifacthub.io/links: |-
+        - name: GitHub
+          url: https://github.com/btungut/fluentd-kube-elastic
+    apiVersion: v2
+    appVersion: 1.15-1-rev1
+    created: "2022-08-01T17:53:13.772313791+03:00"
+    description: Best fluentd implementation for collecting container logs from Kubernetes
+    digest: b543134ebd932810dc2bae3de08f77fea7dd670ef354bae1a61f827d0c2b06f0
+    home: https://github.com/btungut/fluentd-kube-elastic
+    keywords:
+    - fluentd
+    - container logs
+    - kubernetes logs
+    - elasticsearch
+    maintainers:
+    - email: burak.tungut@microsoft.com
+      name: Burak Tungut
+    name: fluentd-kube-elastic
+    sources:
+    - https://github.com/btungut/fluentd-kube-elastic
+    type: application
+    urls:
+    - https://github.com/btungut/fluentd-kube-elastic/releases/download/v1.15.1/fluentd-kube-elastic-1.15.1.tgz
+    version: 1.15.1
   azure-devops-agent:
   - annotations:
       artifacthub.io/containsSecurityUpdates: "false"
@@ -195,4 +223,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2022-07-07T23:00:32.8826651+03:00"
+generated: "2022-08-01T17:53:13.768861097+03:00"
