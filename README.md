@@ -4,6 +4,10 @@ helm repo add btungut https://btungut.github.io
 ```
 
 # Kubernetes Projects
+## [Fluentd Kube Elastic](https://btungut.github.io/fluentd-kube-elastic/)
+Regardless of whether your container logs are plain-text or **json**! This fluentd implementation collects, parses, and sends all types of log entries to **Elasticsearch**.
+
+
 ## [Azure KeyVault Secret Operator](https://btungut.github.io/kubernetes-azure-keyvault-secret-operator/)
 Easy to use operator which is able to **sync all of the Azure KeyVault contents** into your Kubernetes cluster with **only one manifest** with regex supported namespace selectors and go template supported key/value data generators.
 
