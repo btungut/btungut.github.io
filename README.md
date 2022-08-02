@@ -4,7 +4,7 @@ helm repo add btungut https://btungut.github.io
 ```
 
 # Kubernetes Projects
-## [Fluentd Kube Elastic](https://btungut.github.io/fluentd-kube-elastic/)
+## [Fluentd Kube Elastic](https://github.com/btungut/fluentd-kube-elastic/)
 Regardless of whether your container logs are plain-text or **json**! This fluentd implementation collects, parses, and sends all types of log entries to **Elasticsearch**.
 
 
