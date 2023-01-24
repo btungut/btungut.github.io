@@ -3,7 +3,14 @@
 helm repo add btungut https://btungut.github.io
 ```
 
-# Kubernetes Projects
+# Projects
+
+## [kubeconfig-merge](https://github.com/btungut/kubeconfig-merge)
+Painless and faultless way to merge kubeconfig files.
+
+## [Azure DevOps Agent on Kubernetes](https://github.com/btungut/azure-devops-agent-on-kubernetes)
+The easiest and most effective method for creating and managing **Azure DevOps agents on Kubernetes**, without the need to spend time and effort wrestling with settings! Scale-out as much as is necessary and demolish them gracefully.
+
 ## [Fluentd Kube Elastic](https://github.com/btungut/fluentd-kube-elastic/)
 Regardless of whether your container logs are plain-text or **json**! This fluentd implementation collects, parses, and sends all types of log entries to **Elasticsearch**.
 
