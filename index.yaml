@@ -7,6 +7,36 @@ entries:
       artifacthub.io/links: |-
         - name: GitHub
           url: https://github.com/btungut/github-runner-on-kubernetes
+      github.com/hash: 25514db
+      github.com/owner: btungut
+      github.com/repository: github-runner-on-kubernetes
+    apiVersion: v2
+    appVersion: 2.311.0
+    created: "2023-12-09T09:04:21.887962906+03:00"
+    description: Squashed commit for 2.311.2 (25514db)
+    digest: 6e933920938d254f3ab4441ad03f83c0ba5a186f4ae3627beedb90826fc2cbcf
+    home: https://github.com/btungut/github-runner-on-kubernetes
+    keywords:
+    - github runner
+    - kubernetes
+    - github runner on kubernetes
+    - dockerized github runner
+    maintainers:
+    - email: burak.tungut@microsoft.com
+      name: Burak Tungut
+    name: github-runner-on-kubernetes
+    sources:
+    - https://github.com/btungut/github-runner-on-kubernetes
+    type: application
+    urls:
+    - https://github.com/btungut/github-runner-on-kubernetes/releases/download/v2.311.2/github-runner-on-kubernetes-2.311.2.tgz
+    version: 2.311.2
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: MIT
+      artifacthub.io/links: |-
+        - name: GitHub
+          url: https://github.com/btungut/github-runner-on-kubernetes
       github.com/hash: fea6bb5
       github.com/owner: btungut
       github.com/repository: github-runner-on-kubernetes
@@ -447,4 +477,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2023-12-08T03:46:38.468123594+03:00"
+generated: "2023-12-09T09:04:21.881840303+03:00"
