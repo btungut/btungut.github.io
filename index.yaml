@@ -558,4 +558,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2024-12-25T02:35:26.588997608+03:00"
+generated: "2024-12-25T02:59:26.588997608+03:00"
