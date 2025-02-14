@@ -207,6 +207,36 @@ entries:
           url: https://github.com/btungut/azure-devops-agent-on-kubernetes
     apiVersion: v2
     appVersion: 3.248.0-stable-v2.1.0
+    created: "2025-02-15T01:47:30.615369176+03:00"
+    description: Dockerized build agent for Azure DevOps
+    digest: 654a36846184e9a275ee6141f83d3a613478f10d3e2f3bd2f90fb6c366996a46
+    home: https://github.com/btungut/azure-devops-agent-on-kubernetes
+    keywords:
+    - azure devops
+    - build agent
+    - dockerized agent
+    - azure devops agent on kubernetes
+    - azure devops agent
+    - kubernetes
+    - devops
+    maintainers:
+    - email: burak.tungut@microsoft.com
+      name: Burak Tungut
+    name: azure-devops-agent
+    sources:
+    - https://github.com/btungut/azure-devops-agent-on-kubernetes/tree/v2.1.1
+    type: application
+    urls:
+    - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.1.1/azure-devops-agent-2.1.1.tgz
+    version: 2.1.1
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/license: MIT
+      artifacthub.io/links: |-
+        - name: GitHub
+          url: https://github.com/btungut/azure-devops-agent-on-kubernetes
+    apiVersion: v2
+    appVersion: 3.248.0-stable-v2.1.0
     created: "2025-01-07T03:48:49.42552931+03:00"
     description: Dockerized build agent for Azure DevOps
     digest: 3f703d5bf007d49384e95a3f3c968c97fd0b075c980f9a72d575f2a3fed527b9
@@ -224,7 +254,7 @@ entries:
       name: Burak Tungut
     name: azure-devops-agent
     sources:
-    - https://github.com/btungut/azure-devops-agent-on-kubernetes
+    - https://github.com/btungut/azure-devops-agent-on-kubernetes/tree/v2.1.0
     type: application
     urls:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.1.0/azure-devops-agent-2.1.0.tgz
@@ -588,4 +618,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2025-01-07T03:48:49.42524944+03:00"
+generated: "2025-02-15T01:47:30.615064278+03:00"
