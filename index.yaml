@@ -200,7 +200,7 @@ entries:
     version: 1.15.1
   azure-devops-agent:
   - annotations:
-      artifacthub.io/containsSecurityUpdates: "false"
+      artifacthub.io/containsSecurityUpdates: "true"
       artifacthub.io/license: MIT
       artifacthub.io/links: |-
         - name: GitHub
@@ -208,7 +208,7 @@ entries:
     apiVersion: v2
     appVersion: 3.248.0-stable-v2.1.0
     created: "2025-02-15T01:47:30.615369176+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: 654a36846184e9a275ee6141f83d3a613478f10d3e2f3bd2f90fb6c366996a46
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -223,12 +223,21 @@ entries:
     - email: burak.tungut@microsoft.com
       name: Burak Tungut
     name: azure-devops-agent
+    logoURL: https://btungut.github.io/.img/Azure_DevOps_Agents_on_Kubernetes.jpg
     sources:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/tree/v2.1.1
     type: application
     urls:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.1.1/azure-devops-agent-2.1.1.tgz
     version: 2.1.1
+    displayName: "Azure DevOps Agent on Kubernetes"
+    category: "DevOps"
+    homeURL: https://github.com/btungut/azure-devops-agent-on-kubernetes
+    links:
+    - name: GitHub
+      url: https://github.com/btungut
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/btungut/
   - annotations:
       artifacthub.io/containsSecurityUpdates: "false"
       artifacthub.io/license: MIT
@@ -238,7 +247,7 @@ entries:
     apiVersion: v2
     appVersion: 3.248.0-stable-v2.1.0
     created: "2025-01-07T03:48:49.42552931+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: 3f703d5bf007d49384e95a3f3c968c97fd0b075c980f9a72d575f2a3fed527b9
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -268,7 +277,7 @@ entries:
     apiVersion: v2
     appVersion: 3.248.0
     created: "2024-12-07T00:41:32.11213617+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: d8b81a304ff23f141b5e29ed5c7723710727c949809531f8d639febf6a1d3d1f
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -295,7 +304,7 @@ entries:
     apiVersion: v2
     appVersion: 3.232.3
     created: "2024-02-10T07:37:25.403622379+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: a942c2542113846ff5605d19a22a7100c9970f0bdbd8d16a1911b7d2346ab534
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -322,7 +331,7 @@ entries:
     apiVersion: v2
     appVersion: 3.220.5
     created: "2023-11-07T21:34:40.328965475+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: d7e5d2df65e00069d317933e984d3f452a0880e0f0fa6b22abceab8f6ef7ee74
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -349,7 +358,7 @@ entries:
     apiVersion: v2
     appVersion: 3.220.5
     created: "2023-08-06T23:31:08.27838878+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: c26309b0405be1cc77549981ff0fc8227d93440ed9d49ac33d35a85e3015627d
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -376,7 +385,7 @@ entries:
     apiVersion: v2
     appVersion: 2.214.1
     created: "2023-01-24T19:06:49.837440071+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: 1cda507e5fb70d1578f1254d059f20981488a24b09bcdf172b6536099301348d
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -403,7 +412,7 @@ entries:
     apiVersion: v2
     appVersion: 2.204.0
     created: "2022-07-07T23:00:32.8831861+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: a0dae6ba7c13c14559bcf5fde974e202e9e15e33e36ff3bc6a09760c2496ce30
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -430,7 +439,7 @@ entries:
     apiVersion: v2
     appVersion: 2.204.0
     created: "2022-07-07T19:54:54.952827+03:00"
-    description: Dockerized build agent for Azure DevOps
+    description: Azure DevOps Build Agents on Kubernetes and Docker
     digest: 04d31f6f08ca46b2cee26e9dfbbc0bbdba455114860c5f58748d96dbc7e29851
     home: https://github.com/btungut/azure-devops-agent-on-kubernetes
     keywords:
@@ -618,4 +627,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2025-02-15T01:47:30.615064278+03:00"
+generated: "2025-02-17T01:47:30.615064278+03:00"
