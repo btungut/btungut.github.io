@@ -1,36 +1,47 @@
-# Who am I ?
-Hi everyone! 
-
-My name is Burak Tungut. I'm a developer and currently working at Microsoft as Cloud Solution Architect.
-
-In my position at Microsoft, I have primarily been in leadership of long-term modernization projects. I also try to make an effort to use open-source software and to contribute to it whenever I can.
 
 
-Also you can reach me out with the following links;
-- [GitHub](https://github.com/btungut)
-- [LinkedIn](https://www.linkedin.com/in/btungut/)
-- [Twitter](https://twitter.com/btungut)
+# Burak Tungut
 
-buraktungut@gmail.com
+<p>
+<div style="float: left; margin-right: 10px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Burak Tungut" width="100" align="left">
+</div>
 
-# Helm Repository
-```
-helm repo add btungut https://btungut.github.io
-```
-
-# Projects
-
-## [kubeconfig-merge](https://github.com/btungut/kubeconfig-merge)
-Painless and faultless way to merge kubeconfig files.
-
-## [Azure DevOps Agent on Kubernetes](https://github.com/btungut/azure-devops-agent-on-kubernetes)
-The easiest and most effective method for creating and managing **Azure DevOps agents on Kubernetes**, without the need to spend time and effort wrestling with settings! Scale-out as much as is necessary and demolish them gracefully.
-
-## [Fluentd Kube Elastic](https://github.com/btungut/fluentd-kube-elastic/)
-Regardless of whether your container logs are plain-text or **json**! This fluentd implementation collects, parses, and sends all types of log entries to **Elasticsearch**.
+Tech Lead & Cloud Solution Architect at **Microsoft**, specializing in long-term modernization projects. Passionate about **open-source software, Kubernetes, Azure, and DevOps**.  
+Sharing knowledge through **GitHub projects** and educational content.  
 
 
-## [Azure KeyVault Secret Operator](https://btungut.github.io/kubernetes-azure-keyvault-secret-operator/)
-Easy to use operator which is able to **sync all of the Azure KeyVault contents** into your Kubernetes cluster with **only one manifest** with regex supported namespace selectors and go template supported key/value data generators.
+📫 **Contact:** [GitHub](https://github.com/btungut) | [LinkedIn](https://www.linkedin.com/in/btungut/) | [Twitter](https://twitter.com/btungut)
+</br>For **university seminars and event invitations**, feel free to reach out via **LinkedIn messages**. 🚀  
 
-Please visit [github pages](https://btungut.github.io/kubernetes-azure-keyvault-secret-operator/) for further details or [repository page](https://github.com/btungut/kubernetes-azure-keyvault-secret-operator) for source code.
+</p>
+</br>
+
+## 🚀 Featured Projects
+
+### 1️⃣ Azure DevOps Agent on Kubernetes  
+A solution for running Azure DevOps agents on **Kubernetes** efficiently. It leverages **Helm charts** and **Docker** to deploy agents seamlessly.  
+🔗 [GitHub Repository](https://github.com/btungut/azure-devops-agent-on-kubernetes)
+
+---
+
+### 2️⃣ Fluentd Kube Elastic  
+A **Fluentd** implementation for **log forwarding in Kubernetes**, specifically targeting **Elasticsearch**. It supports both **plain text and JSON logs**.  
+🔗 [GitHub Repository](https://github.com/btungut/fluentd-kube-elastic)
+
+---
+
+### 3️⃣ Kubeconfig Merge  
+A CLI tool to **merge multiple Kubernetes kubeconfig files** into a single configuration. Ideal for users managing multiple clusters efficiently.  
+🔗 [GitHub Repository](https://github.com/btungut/kubeconfig-merge)
+
+---
+
+### 4️⃣ Kubernetes Azure KeyVault Secret Operator  
+A **Kubernetes operator** that syncs secrets from **Azure KeyVault** to Kubernetes clusters, making secret management seamless and automated.  
+🔗 [GitHub Repository](https://github.com/btungut/kubernetes-azure-keyvault-secret-operator)
+
+---
+
+Feel free to contribute to my projects on **GitHub**. 🚀
+
