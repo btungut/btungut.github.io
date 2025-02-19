@@ -225,7 +225,7 @@ entries:
     - email: info@buraktungut.com
       name: Burak Tungut
     name: azure-devops-agent
-    logoURL: https://btungut.github.io/img/Azure_DevOps_Agents_on_Kubernetes.jpg
+    icon: https://btungut.github.io/img/Azure_DevOps_Agents_on_Kubernetes.jpg
     sources:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/tree/v2.2.0
     type: application
@@ -256,7 +256,6 @@ entries:
     - email: burak.tungut@microsoft.com
       name: Burak Tungut
     name: azure-devops-agent
-    logoURL: https://btungut.github.io/img/Azure_DevOps_Agents_on_Kubernetes.jpg
     sources:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/tree/v2.1.1
     type: application
