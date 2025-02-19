@@ -16,11 +16,11 @@ Sharing knowledge through <b>GitHub projects</b> and educational content.
   <a href="https://www.linkedin.com/in/btungut/">LinkedIn</a> | 
   <a href="https://twitter.com/btungut">Twitter</a>
 
-  For <strong>university seminars and event invitations</strong>, feel free to reach out via <strong>LinkedIn messages</strong>. 🚀
+  <br>For <strong>university seminars and event invitations</strong>, feel free to reach out via <strong>LinkedIn messages</strong>. 🚀
+</p>
 </p>
 
-</p>
-</br>
+---
 
 ## 🚀 Featured Projects
 
