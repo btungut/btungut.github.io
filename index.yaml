@@ -206,6 +206,42 @@ entries:
         - name: GitHub
           url: https://github.com/btungut/azure-devops-agent-on-kubernetes
     apiVersion: v2
+    appVersion: 4.251.0-stable-v2.2.0
+    created: "2025-02-19T22:50:24.135413401Z"
+    description: Dockerized Azure DevOps build agent on Kubernetes
+    digest: c4a5951012a938816cf67f1a623348ee09ba1cb5ca64425d3d84f11aed5b0ba0
+    home: https://github.com/btungut/azure-devops-agent-on-kubernetes
+    keywords:
+    - azure devops
+    - build agent
+    - dockerized agent
+    - azure devops agent on kubernetes
+    - azure devops agent
+    - kubernetes
+    - devops
+    maintainers:
+    - email: info@buraktungut.com
+      name: Burak Tungut
+    name: azure-devops-agent
+    logoURL: https://btungut.github.io/img/Azure_DevOps_Agents_on_Kubernetes.jpg
+    sources:
+    - https://github.com/btungut/azure-devops-agent-on-kubernetes/tree/v2.2.0
+    type: application
+    urls:
+    - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.2.0/azure-devops-agent-2.2.0.tgz
+    version: 2.2.0
+    links:
+    - name: GitHub
+      url: https://github.com/btungut
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/btungut/
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "true"
+      artifacthub.io/license: MIT
+      artifacthub.io/links: |-
+        - name: GitHub
+          url: https://github.com/btungut/azure-devops-agent-on-kubernetes
+    apiVersion: v2
     appVersion: 3.248.0-stable-v2.1.0
     created: "2025-02-15T01:47:30.615369176+03:00"
     description: Azure DevOps Build Agents on Kubernetes and Docker
@@ -230,8 +266,6 @@ entries:
     urls:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.1.1/azure-devops-agent-2.1.1.tgz
     version: 2.1.1
-    # displayName: "Azure DevOps Agent on Kubernetes"
-    homeURL: https://github.com/btungut/azure-devops-agent-on-kubernetes
     links:
     - name: GitHub
       url: https://github.com/btungut
@@ -626,4 +660,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2025-02-19T20:31:43.757578334+03:00"
+generated: "2025-02-20T01:54:43.757578334+03:00"
