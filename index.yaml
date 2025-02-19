@@ -205,6 +205,8 @@ entries:
       artifacthub.io/links: |-
         - name: GitHub
           url: https://github.com/btungut/azure-devops-agent-on-kubernetes
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/buraktungut/
     apiVersion: v2
     appVersion: 4.251.0-stable-v2.2.0
     created: "2025-02-19T22:50:24.135413401Z"
@@ -230,11 +232,6 @@ entries:
     urls:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.2.0/azure-devops-agent-2.2.0.tgz
     version: 2.2.0
-    links:
-    - name: GitHub
-      url: https://github.com/btungut
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/btungut/
   - annotations:
       artifacthub.io/containsSecurityUpdates: "true"
       artifacthub.io/license: MIT
@@ -266,11 +263,6 @@ entries:
     urls:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.1.1/azure-devops-agent-2.1.1.tgz
     version: 2.1.1
-    links:
-    - name: GitHub
-      url: https://github.com/btungut
-    - name: LinkedIn
-      url: https://www.linkedin.com/in/btungut/
   - annotations:
       artifacthub.io/containsSecurityUpdates: "false"
       artifacthub.io/license: MIT
