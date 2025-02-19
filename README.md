@@ -4,15 +4,20 @@
 
 <p>
 <div style="float: left; margin-right: 10px;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Burak Tungut" width="100" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Burak Tungut" width="120" align="left">
 </div>
 
-Tech Lead & Cloud Solution Architect at **Microsoft**, specializing in long-term modernization projects. Passionate about **open-source software, Kubernetes, Azure, and DevOps**.  
-Sharing knowledge through **GitHub projects** and educational content.  
+Tech Lead & Cloud Solution Architect at <b>Microsoft</b>, specializing in long-term modernization projects. Passionate about <b>open-source software, Kubernetes, Azure, and DevOps</b>.  
+Sharing knowledge through <b>GitHub projects</b> and educational content.  
 
 
-📫 **Contact:** [GitHub](https://github.com/btungut) | [LinkedIn](https://www.linkedin.com/in/btungut/) | [Twitter](https://twitter.com/btungut)
-</br>For **university seminars and event invitations**, feel free to reach out via **LinkedIn messages**. 🚀  
+<p><strong>📫 Contact:</strong> 
+  <a href="https://github.com/btungut">GitHub</a> | 
+  <a href="https://www.linkedin.com/in/btungut/">LinkedIn</a> | 
+  <a href="https://twitter.com/btungut">Twitter</a>
+
+  For <strong>university seminars and event invitations</strong>, feel free to reach out via <strong>LinkedIn messages</strong>. 🚀
+</p>
 
 </p>
 </br>
