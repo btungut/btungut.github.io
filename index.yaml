@@ -231,7 +231,6 @@ entries:
     - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.1.1/azure-devops-agent-2.1.1.tgz
     version: 2.1.1
     displayName: "Azure DevOps Agent on Kubernetes"
-    category: "integration-delivery"
     homeURL: https://github.com/btungut/azure-devops-agent-on-kubernetes
     links:
     - name: GitHub
