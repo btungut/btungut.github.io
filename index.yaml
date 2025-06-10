@@ -208,6 +208,39 @@ entries:
         - name: LinkedIn
           url: https://www.linkedin.com/in/buraktungut/
     apiVersion: v2
+    appVersion: v2.3.0-vsts-v2.255.0
+    created: "2025-06-11T00:51:10.219900143+03:00"
+    description: Dockerized Azure DevOps build agent on Kubernetes
+    digest: 9db825ed2c250c87ec4c4157ff2676127e82c81312cedb05e53158a6eafb6b4b
+    home: https://github.com/btungut/azure-devops-agent-on-kubernetes
+    keywords:
+    - azure devops
+    - build agent
+    - dockerized agent
+    - azure devops agent on kubernetes
+    - azure devops agent
+    - kubernetes
+    - devops
+    maintainers:
+    - email: info@buraktungut.com
+      name: Burak Tungut
+    name: azure-devops-agent
+    icon: https://btungut.github.io/img/Azure_DevOps_Agents_on_Kubernetes.jpg
+    sources:
+    - https://github.com/btungut/azure-devops-agent-on-kubernetes/tree/v2.3.0
+    type: application
+    urls:
+    - https://github.com/btungut/azure-devops-agent-on-kubernetes/releases/download/v2.3.0/azure-devops-agent-2.3.0.tgz
+    version: 2.3.0
+  - annotations:
+      artifacthub.io/containsSecurityUpdates: "true"
+      artifacthub.io/license: MIT
+      artifacthub.io/links: |-
+        - name: GitHub
+          url: https://github.com/btungut/azure-devops-agent-on-kubernetes
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/buraktungut/
+    apiVersion: v2
     appVersion: 4.251.0-stable-v2.2.0
     created: "2025-02-19T22:50:24.135413401Z"
     description: Dockerized Azure DevOps build agent on Kubernetes
@@ -651,4 +684,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2025-02-20T01:54:43.757578334+03:00"
+generated: "2025-06-11T00:51:10.219322642+03:00"
