@@ -1,35 +1,25 @@
 # Burak Tungut
 
-<div>
-  <div style="display:flex; flex-direction:column; align-items:center; gap:20px; margin:0 20px 12px 0; float:left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
-        alt="Microsoft"
-        height="52"
-        style="opacity:0.85" />
+<div style="display:flex; flex-direction:column; align-items:center; gap:20px; margin:16px 20px 12px 0; float:left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"
+       alt="Microsoft"
+       height="52"
+       style="opacity:0.85" />
 
-    <img src="https://raw.githubusercontent.com/btungut/btungut.github.io/master/assets/tungops_logo.png"
-        alt="TungOps"
-        height="72" />
-  </div>
-
-  <div style="float:left">
-    <div><strong>Founder &amp; External CTO | Principal Architect</strong></div>
-    <div>Former Microsoft Cloud Solution Architect &amp; App Innovation Lead</div>
-
-    <div style="margin-top:12px;">
-      I design, build, and operate <strong>production-grade distributed systems</strong> across
-      <strong>cloud, hybrid, and fully on-prem environments</strong>.
-    </div>
-
-    <div style="margin-top:12px;">
-      I work with organizations as an <strong>External CTO / Architecture Board</strong> &mdash;
-      owning architectural decisions, delivery outcomes, and operational reliability,
-      not just providing advice or slideware.
-    </div>
-  </div>
+  <img src="https://raw.githubusercontent.com/btungut/btungut.github.io/master/assets/tungops_logo.png"
+       alt="TungOps"
+       height="72" />
 </div>
 
-<div style="clear:both"></div>
+**Founder & External CTO | Principal Architect**  
+Former Microsoft Cloud Solution Architect & App Innovation Lead
+
+I design, build, and operate **production-grade distributed systems** across  
+**cloud, hybrid, and fully on-prem environments**.
+
+I work with organizations as an **External CTO / Architecture Board** —  
+owning architectural decisions, delivery outcomes, and operational reliability,  
+not just providing advice or slideware.
 
 ---
 

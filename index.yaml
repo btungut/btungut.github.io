@@ -1,5 +1,32 @@
 apiVersion: v1
 entries:
+  helm-serve:
+  - apiVersion: v2
+    created: "2025-12-27T02:18:32.214456+03:00"
+    description: Helm base chart for serving API and web applications with minimal
+      configuration. Designed to eliminate boilerplate and simplify Kubernetes deployments.
+    digest: 26834f3e572fc3fe90b815cf0020b1c87258bddce95bdb70e3670e77f6be748b
+    home: https://github.com/btungut/helm-serve
+    keywords:
+    - kubernetes
+    - helm
+    - api
+    - web
+    - serve
+    - deployment
+    - microservice
+    - boilerplate
+    - minimal
+    maintainers:
+    - name: Burak Tungut
+      url: https://github.com/btungut
+    name: helm-serve
+    sources:
+    - https://github.com/btungut/helm-serve
+    type: library
+    urls:
+    - https://github.com/btungut/helm-serve/releases/download/0.0.1/helm-serve-0.0.1.tgz
+    version: 0.0.1
   github-runner-on-kubernetes:
   - annotations:
       artifacthub.io/containsSecurityUpdates: "false"
@@ -717,4 +744,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2025-07-21T17:47:53.575341593Z"
+generated: "2025-12-27T02:18:32.213718+03:00"
