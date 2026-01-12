@@ -2,6 +2,36 @@ apiVersion: v1
 entries:
   helm-serve:
   - apiVersion: v2
+    created: "2026-01-12T05:56:46.698281+03:00"
+    description: Helm library chart for serving API/web applications and scheduled
+      jobs with minimal configuration. Supports both Deployment and CronJob modes.
+      Designed to eliminate boilerplate and simplify Kubernetes deployments.
+    digest: 1427336eb0511cacab65b923cfb64849f4f038eef22412c8459d8b4561eac0dd
+    home: https://github.com/btungut/helm-serve
+    keywords:
+    - kubernetes
+    - helm
+    - api
+    - web
+    - serve
+    - deployment
+    - cronjob
+    - batch
+    - scheduled-jobs
+    - microservice
+    - boilerplate
+    - minimal
+    maintainers:
+    - name: Burak Tungut
+      url: https://github.com/btungut
+    name: helm-serve
+    sources:
+    - https://github.com/btungut/helm-serve
+    type: library
+    urls:
+    - https://github.com/btungut/helm-serve/releases/download/0.0.3/helm-serve-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
     created: "2026-01-12T04:42:38.686427+03:00"
     description: Helm library chart for serving API/web applications and scheduled
       jobs with minimal configuration. Supports both Deployment and CronJob modes.
@@ -774,4 +804,4 @@ entries:
     urls:
     - https://github.com/btungut/kubernetes-azure-keyvault-secret-operator/releases/download/0.0.1/chart.tgz
     version: 0.0.1
-generated: "2026-01-12T04:42:38.685899+03:00"
+generated: "2026-01-12T05:56:46.697421+03:00"
